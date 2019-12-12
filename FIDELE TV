@@ -1,1 +1,51 @@
 
+#EXTINF:0, RADIO FIDELEFM
+http://s1.voscast.com:9800
+#EXTINF:0, RADIO VAYB FM
+http://s2.voscast.com:12434
+#EXTINF:0, RADIO MIRACLE FM
+http://s6.voscast.com:9782
+#EXTINF:0,RADIO MODEL
+http://Ca2.radioboss.fm:8347
+#EXTINF:0,Amen FM Radio
+http://174.36.206.197:7044/stream
+
+
+
+#EXTINF:0,RADIO LE SALUT
+http://174.36.206.197:7122/stream?type=http%26nocache=1',
+
+#EXTINF:0,RADIO AFRICA
+
+http://server7.servistreaming.com:10040/stream
+
+#EXTINF:0,RADIO TELE KAJOU
+
+http://us5.streamingpulse.com:1935/radiotelekajou/radiotelekajou/playlist.m3u8
+
+#EXTINF:0,4Diaspo radio
+
+http://c2.radioboss.fm/stream/128 
+
+#EXTINF:0,Radio Baz La
+
+http://usa6.fastcast4u.com:5530/
+
+#EXTINF:0,Radio Hit fm HAITI
+
+http://174.36.206.197:7098/stream
+
+#EXTINF:0,RADIO TOUCHE DOUCE
+
+http://zafemradio.com:7085/;
+
+#EXTINF:0,WPBR
+
+http://174.36.206.197:7134/stream
+
+#EXTINF:0,RTB TY
+
+http://192.240.102.131:9746/;
+
+
+
